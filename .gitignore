@@ -3,5 +3,6 @@ path
 __pycache__
 countries
 .env
+*.DS_Store
 *~
 *#*
